@@ -1,4 +1,5 @@
 ## SIMPLE COUNTDOWN TIMER APP
 
-Install dependencies: npm install or yarn
-Start the App: npm start or yarn start
+1. Install dependencies: `npm install` or `yarn`
+
+2. Start the React app: `npm start` or `yarn start`
